@@ -1,45 +1,58 @@
-<h1 align="center">👋 Hi, I'm Harsh Agrawal</h1>
-<h3 align="center">💻 Student | Aspiring Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Harsh Agrawal</h1>
 
 <p align="center">
-  🚀 Passionate about coding, problem-solving & building projects  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+%7C+Aspiring+Software+Developer;Learning+Full+Stack+Development;Love+Coding+%26+Problem+Solving;Building+Projects+Every+Day;Future+Software+Engineer+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh4748&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **academic & personal projects**
-- 🌱 Learning **Web Development & Backend Technologies**
-- 💡 Interested in **Full Stack Development**
+## 👨‍💻 About Me
+- 🎓 Student & passionate learner  
+- 🌱 Currently learning **Web Development & Backend**
+- 💡 Interested in **Full Stack & Software Development**
+- 🧠 Strong interest in **problem solving**
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript**
-- 📫 Reach me at: **your-email@gmail.com**
-- ⚡ Fun fact: *I love learning new tech & improving daily*
+- ⚡ Fun fact: *I believe consistency beats talent*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh4748&show_icons=true&theme=tokyonight" />
 </p>
 
-### 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harsh4748&theme=tokyonight" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
-👉 Check below for my highlighted repositories 👇
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh4748&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/Harsh4748/Harsh4748/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">🚀 Keep Learning | Keep Building | Keep Growing</h3>
