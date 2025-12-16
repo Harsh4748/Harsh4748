@@ -1,11 +1,21 @@
+<!-- ===== PROFILE PHOTO ===== -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Harsh4748" width="170" style="border-radius:50%;" />
+</p>
+
+<!-- ===== BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Harsh%20Agrawal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Harsh Agrawal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+%7C+Aspiring+Software+Developer;Learning+Full+Stack+Development;Love+Coding+%26+Problem+Solving;Building+Projects+Every+Day;Future+Software+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Student+%7C+Aspiring+Software+Developer;Learning+Full+Stack+Development;Love+Coding+%26+Problem+Solving;Building+Projects+Every+Day;Future+Software+Engineer+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh4748&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh4748&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
 ---
@@ -14,15 +24,37 @@
 - 🎓 Student & passionate learner  
 - 🌱 Currently learning **Web Development & Backend**
 - 💡 Interested in **Full Stack & Software Development**
-- 🧠 Strong interest in **problem solving**
+- 🧠 Strong interest in **Problem Solving**
 - 💬 Ask me about **C, C++, HTML, CSS, JavaScript**
-- ⚡ Fun fact: *I believe consistency beats talent*
+- ⚡ Fun fact: *Consistency beats talent*
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/Harsh4748">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh4748&theme=tokyonight&row=1&no-frame=true" />
 </p>
 
 ---
@@ -56,3 +88,7 @@
 ---
 
 <h3 align="center">🚀 Keep Learning | Keep Building | Keep Growing</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
+</p>
